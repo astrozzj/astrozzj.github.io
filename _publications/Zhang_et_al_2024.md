@@ -5,7 +5,7 @@ permalink: https://doi.org/10.3847/1538-4357/ad86c0
 excerpt: 'This paper is about calculating $$DM_{\rm IGM}$$ from simulations and using FRB to probe reionization.'
 date: 2024-12-10
 venue: 'Astrophysical Journal'
-paperurl: 'https://ui.adsabs.harvard.edu/abs/10.3847%2F1538-4357%2Fad86c0/abstract'
+paperurl: 'https://doi.org/10.3847/1538-4357/ad86c0'
 citation: 'Z. J. Zhang et al 2024 ApJ 977 157'
 ---
 
