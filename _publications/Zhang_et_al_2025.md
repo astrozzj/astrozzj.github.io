@@ -2,7 +2,7 @@
 title: "Einstein Probe discovery of EP240408a: A peculiar X-ray transient with an intermediate timescale"
 collection: publications
 permalink: https://doi.org/10.1007/s11433-024-2524-4
-excerpt: 'This is the first scientific paper published by Einstein Probe since its launch. I\'m so proud to be a collaborator and look forward to many more amazing results.'
+excerpt: 'This is the first scientific paper after the launch of Einstein Probe. I am so proud to be a collaborator and look forward to more amazing results.'
 date: 2025-01-01
 venue: 'Science China Physics, Mechanics & Astronomy'
 paperurl: 'https://doi.org/10.1007/s11433-024-2524-4'
