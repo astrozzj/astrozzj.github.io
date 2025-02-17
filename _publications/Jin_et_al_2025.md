@@ -5,7 +5,7 @@ permalink: https://doi.org/10.48550/arXiv.2501.09580
 excerpt: 'An IMBH with a TDE!'
 date: 2025-01-01
 venue: 'Submitted to Science'
-paperurl: 'https://doi.org/10.1007/s11433-024-2524-4'
+paperurl: 'https://doi.org/10.48550/arXiv.2501.09580'
 citation: 'Jin C. C., Li D. Y., Jiang N. et al. arXiv:2501.09580 (Zhang. Z. J. included)'
 ---
 
